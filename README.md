@@ -1,16 +1,27 @@
-## Hi there 👋
+# Jackbins
 
-<!--
-**jackbins/jackbins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A collection of small machine learning experiments, practice projects, model prototypes, and learning notebooks.
 
-Here are some ideas to get you started:
+This repository serves as a personal playground for exploring:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Machine Learning
+* Data Science
+* Deep Learning
+* Data Analysis
+* Model Experiments
+* Jupyter Notebooks
+
+Most projects here are built for learning, testing ideas, and improving practical skills.
+
+## Contents
+
+* Practice Projects
+* Exploratory Data Analysis (EDA)
+* Classification Models
+* Regression Models
+* Model Evaluation
+* Experimental Notebooks
+
+---
+
+Building, learning, and experimenting one project at a time.

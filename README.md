@@ -1,4 +1,4 @@
-# Jackbins
+# 🧪 Jackbins
 
 A collection of small machine learning experiments, practice projects, model prototypes, and learning notebooks.
 
